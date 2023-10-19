@@ -1,0 +1,21 @@
+
+d
+java:S1192„"MDefine a constant instead of duplicating this literal "level_3_task" 4 times.(æ­ŞÖ
+¯
+java:S1192;"˜Define a constant instead of duplicating this literal "ĞĞ±ĞµÑ€Ğ¸ Ğ·Ğ°Ğ²Ğ´Ğ°Ğ½Ğ½Ñ, Ñ‰Ğ¾Ğ± Ğ¿ĞµÑ€ĞµĞ¹Ñ‚Ğ¸ Ğ½Ğ° Ğ½Ğ°ÑÑ‚ÑƒĞ¿Ğ½Ğ¸Ğ¹ Ñ€Ñ–Ğ²ĞµĞ½ÑŒ" 3 times.(ŒÛè¨
+h
+java:S1192H"MDefine a constant instead of duplicating this literal "level_1_task" 4 times.(á„Óªøÿÿÿÿ
+h
+java:S1192f"MDefine a constant instead of duplicating this literal "level_2_task" 4 times.(æàÑÿÿÿÿÿ
+E
+java:S1066n"/Merge this if statement with the enclosing one.(øèàß
+F
+java:S1066"/Merge this if statement with the enclosing one.(Í¿âÂ
+K
+java:S1066 "/Merge this if statement with the enclosing one.(ˆ¼²üÿÿÿÿ
+m
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‘ï‹şÿÿÿÿ
+K
+java:S2864È"4Iterate over the "entrySet" instead of the "keySet".(ÉÚøÅ
+â
+java:S6541%"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 107 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 10 to 6.(‘ï‹şÿÿÿÿ
